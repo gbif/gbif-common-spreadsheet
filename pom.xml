@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>gbif-common-spreadsheet</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.2</version>
   <packaging>jar</packaging>
 
   <name>GBIF Common Spreadsheet</name>
@@ -33,7 +33,7 @@
     <connection>scm:git:git@github.com:gbif/gbif-common-spreadsheet.git</connection>
     <url>https://github.com/gbif/gbif-common-spreadsheet</url>
     <developerConnection>scm:git:git@github.com:gbif/gbif-common-spreadsheet.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>gbif-common-spreadsheet-0.2</tag>
   </scm>
 
   <distributionManagement>
